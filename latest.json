@@ -1,7 +1,7 @@
 {
   "latest_version": "1.0.0",
   "download_url": "https://github.com/USERNAME/REPO_NAME/releases/download/v1.0.0/AutoLiveDT_Setup_1.0.0.exe",
-  "sha256": "DAN_MA_SHA256_CUA_FILE_SETUP_VAO_DAY",
-  "notes": "Bản đầu tiên có chức năng cập nhật tự động.",
+  "sha256": "4992F243F44563FBDE14056B31B0476FC429E762004D4491777D3EBEB9DAF574",
+  "notes": "Phát hành AutoLiveDT 1.0.0. Bổ sung cập nhật tự động, lịch sử phiên bản, GPU/NVENC, chọn nhiều thư mục video và timestamp từng luồng.",
   "force_update": false
 }
