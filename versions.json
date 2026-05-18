@@ -1,0 +1,12 @@
+{
+  "versions": [
+    {
+      "version": "1.0.0",
+      "download_url": "https://github.com/daoduytan294/autolivedt-release/releases/download/v1.0.0/AutoLiveDT_Setup_1.0.0.exe",
+      "sha256": "DAN_MA_SHA256_CUA_FILE_SETUP_VAO_DAY",
+      "date": "2026-05-18",
+      "notes": "Bản đầu tiên có chức năng cập nhật tự động, hỗ trợ GPU/NVENC, chọn nhiều thư mục video và timestamp từng luồng.",
+      "recommended": true
+    }
+  ]
+}
