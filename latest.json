@@ -1,7 +1,7 @@
 {
-  "latest_version": "1.0.0",
-  "download_url": "https://github.com/USERNAME/REPO_NAME/releases/download/v1.0.0/AutoLiveDT_Setup_1.0.0.exe",
-  "sha256": "981C3FF8E0DE4F99D6055A76B0A2D0A33322C36ED4BD27EAEC06D95F4F7516A5",
-  "notes": "Phát hành AutoLiveDT 1.0.0. Bổ sung cập nhật tự động, lịch sử phiên bản, GPU/NVENC, chọn nhiều thư mục video và timestamp từng luồng.",
+  "latest_version": "1.0.1",
+  "download_url": "https://github.com/daoduytan294/autolivedt-release/releases/download/v1.0.1/AutoLiveDT_Setup_1.0.1.exe",
+  "sha256": "88EFA9654C9C0D3B4258ADDF767077ABA7A9E4E2037171634934B2A4F4D36B50",
+  "notes": "Cập nhật AutoLiveDT 1.0.1: khôi phục đầy đủ chức năng chọn nhiều thư mục video, lấy thư mục con, timestamp, hiển thị video đang live, tối ưu giao diện cập nhật và lịch sử phiên bản.",
   "force_update": false
 }
