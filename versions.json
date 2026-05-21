@@ -1,6 +1,17 @@
 {
   "versions": [
     {
+      "version": "1.0.5",
+      "download_url": "https://github.com/daoduytan294/autolivedt-release/releases/download/v1.0.5/AutoLiveDT_Setup_1.0.5.exe",
+      "sha256": "B7C935588AC895218C2081460DFA421FD3FA55B0C1F550E04C399D90B8E0C445",
+      "package_type": "zip",
+      "zip_url": "https://github.com/daoduytan294/autolivedt-release/releases/download/v1.0.5/AutoLiveDT_Update_1.0.5.zip",
+      "zip_sha256": "801E11F028AC9601B9652174C0ECBAEA238F6A641C77A2BF78217F0CC0E7696F",
+      "date": "2026-05-21",
+      "notes": "Cập nhật AutoLiveDT 1.0.5: chuyển build sang dạng ONEDIR để hạn chế lỗi Failed to load Python DLL / Temp _MEI, giữ cơ chế setup tương thích cho bản cũ và ZIP update cho các bản mới.",
+      "recommended": true
+    },
+    {
       "version": "1.0.4",
       "download_url": "https://github.com/daoduytan294/autolivedt-release/releases/download/v1.0.4/AutoLiveDT_Setup_1.0.4.exe",
       "sha256": "9419185EEB2E75E1EAB6DCB158F919BBDED394563F8C114FF8FBD8F149C685CB",
@@ -9,7 +20,7 @@
       "zip_sha256": "AF7B51147747C19F295D578B09D50DA4736C21257BCB1674CFEA863B24A10501",
       "date": "2026-05-21",
       "notes": "Cập nhật AutoLiveDT 1.0.4: sửa cập nhật nhẹ bằng ZIP, giữ bộ cài tương thích cho bản cũ, tự dùng lại thư mục đã cài khi chạy setup, tách ffmpeg/ffprobe ra ngoài EXE để giảm dung lượng bản update và hạn chế lỗi giải nén PyInstaller.",
-      "recommended": true
+      "recommended": false
     },
     {
       "version": "1.0.3",
