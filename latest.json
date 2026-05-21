@@ -1,7 +1,10 @@
 {
-  "latest_version": "1.0.3",
-  "download_url": "https://github.com/daoduytan294/autolivedt-release/releases/download/v1.0.3/AutoLiveDT_Setup_1.0.3.exe",
-  "sha256": "E20D21E9C4A8CEAB551B1BD38576B58AC568A14C688F3BA49ED48CF3D946C861",
-  "notes": "Cập nhật AutoLiveDT 1.0.3: chỉnh giao diện kích hoạt, đổi trạng thái thành Đã kích hoạt/Chưa kích hoạt và mở rộng phần chọn Encoder/Bitrate/Preset để hiển thị đủ nội dung lựa chọn.",
+  "latest_version": "1.0.4",
+  "download_url": "https://github.com/daoduytan294/autolivedt-release/releases/download/v1.0.4/AutoLiveDT_Setup_1.0.4.exe",
+  "sha256": "9419185EEB2E75E1EAB6DCB158F919BBDED394563F8C114FF8FBD8F149C685CB",
+  "package_type": "zip",
+  "zip_url": "https://github.com/daoduytan294/autolivedt-release/releases/download/v1.0.4/AutoLiveDT_Update_1.0.4.zip",
+  "zip_sha256": "AF7B51147747C19F295D578B09D50DA4736C21257BCB1674CFEA863B24A10501",
+  "notes": "Cập nhật AutoLiveDT 1.0.4: sửa cập nhật nhẹ bằng ZIP, giữ bộ cài tương thích cho bản cũ, tự dùng lại thư mục đã cài khi chạy setup, tách ffmpeg/ffprobe ra ngoài EXE để giảm dung lượng bản update và hạn chế lỗi giải nén PyInstaller.",
   "force_update": false
 }
