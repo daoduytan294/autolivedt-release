@@ -3,10 +3,10 @@
     {
       "version": "1.0.5",
       "download_url": "https://github.com/daoduytan294/autolivedt-release/releases/download/v1.0.5/AutoLiveDT_Setup_1.0.5.exe",
-      "sha256": "B7C935588AC895218C2081460DFA421FD3FA55B0C1F550E04C399D90B8E0C445",
+      "sha256": "79807DE3EF24414EF819BF97FF208F1D2A1B7BF09FE924CA5EEF23526517EAAF",
       "package_type": "zip",
       "zip_url": "https://github.com/daoduytan294/autolivedt-release/releases/download/v1.0.5/AutoLiveDT_Update_1.0.5.zip",
-      "zip_sha256": "801E11F028AC9601B9652174C0ECBAEA238F6A641C77A2BF78217F0CC0E7696F",
+      "zip_sha256": "236A3B0D29754D2D972B77A69AF3833A2456CB1DCBAEC74005A2ED151E64BBB7",
       "date": "2026-05-21",
       "notes": "Cập nhật AutoLiveDT 1.0.5: chuyển build sang dạng ONEDIR để hạn chế lỗi Failed to load Python DLL / Temp _MEI, giữ cơ chế setup tương thích cho bản cũ và ZIP update cho các bản mới.",
       "recommended": true
