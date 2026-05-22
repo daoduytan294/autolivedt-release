@@ -7,7 +7,7 @@
       "package_type": "zip",
       "zip_url": "https://github.com/daoduytan294/autolivedt-release/releases/download/v1.0.5/AutoLiveDT_Update_1.0.5.zip",
       "zip_sha256": "4DB6D498F29F04D314AE804960F07EBC1B492DE2FA7BCDF5139200595926D9A0",
-      "date": "2026-05-21",
+      "date": "2026-05-22",
       "notes": "Cập nhật AutoLiveDT 1.0.5: chuyển build sang dạng ONEDIR để hạn chế lỗi Failed to load Python DLL / Temp _MEI, giữ cơ chế setup tương thích cho bản cũ và ZIP update cho các bản mới.",
       "recommended": true
     },
