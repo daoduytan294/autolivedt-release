@@ -3,12 +3,12 @@
     {
       "version": "1.0.6",
       "download_url": "https://github.com/daoduytan294/autolivedt-release/releases/download/v1.0.6/AutoLiveDT_Setup_1.0.6.exe",
-      "sha256": "EF9C03B8827E0CFE3A1AB4D270071EA0862450B7FBE922BDBB4685ACBC04F5CD",
+      "sha256": "6C046AF558E59D3BAFFFDB8E91CFC817E63F2B6EAE4B6757516EA28B3E857F51",
       "package_type": "zip",
       "zip_url": "https://github.com/daoduytan294/autolivedt-release/releases/download/v1.0.6/AutoLiveDT_Update_1.0.6.zip",
-      "zip_sha256": "CC0A146F86D8226A4907BB7D0BE066927BCD4DFACC16937DDAA8E94BC4A27F7B",
+      "zip_sha256": "10F9FA1251C1B7A49FE4CA8A4D7EE6D69511D7657DEEEAB8810EAD5A5EDC7D6F",
       "date": "2026-05-28",
-      "notes": "Cập nhật AutoLiveDT 1.0.6: tinh gọn giao diện bảng để nhìn đủ cột Thao tác, thu nhỏ cột Quét thư mục con, thêm tooltip cho các nút viết tắt, giữ resize cột và các tối ưu giảm lag.",
+      "notes": "Cập nhật AutoLiveDT 1.0.6: tinh gọn giao diện bảng, resize cột, giảm lag trong app và bổ sung tự phục hồi livestream khi FFmpeg/RTMP bị ngắt tạm thời; tự bỏ qua video lỗi/không đọc được để tránh dừng cả luồng.",
       "recommended": true
     },
     {
