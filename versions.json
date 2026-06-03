@@ -1,6 +1,17 @@
 {
   "versions": [
     {
+      "version": "1.0.7",
+      "download_url": "https://github.com/daoduytan294/autolivedt-release/releases/download/v1.0.7/AutoLiveDT_Setup_1.0.7.exe",
+      "sha256": "5258F4DA155F112D3EB96729C31FD299290B39F08E850F6D8D181E6BCF9468A7",
+      "package_type": "zip",
+      "zip_url": "https://github.com/daoduytan294/autolivedt-release/releases/download/v1.0.7/AutoLiveDT_Update_1.0.7.zip",
+      "zip_sha256": "588FC493010B71C64A9AA6108294B664640BA2C8BFF7E9382475EC5F28EE4BC5",
+      "date": "2026-06-03",
+      "notes": "Cập nhật AutoLiveDT 1.0.7: sửa trạng thái luồng live để không còn hiện Đang LIVE khi YouTube/RTMP đã ngắt; thêm bảng chọn ngày giờ cho cột Bắt đầu/Kết thúc; thêm menu chuột phải Cắt/Copy/Dán/Chọn tất cả trong các ô nhập; thêm cột Ghi Chú; tự động lưu cấu hình, ghi chú, danh sách thư mục, lịch, lịch sử luồng và kích thước/thứ tự cột để giảm mất dữ liệu khi mất điện; cho phép đổi thứ tự cột và thứ tự hàng; sửa ổn định bảng luồng, căn thẳng tiêu đề với nội dung, giảm lag khi kéo/di chuyển cột, tự bỏ cấu hình độ rộng cột cũ nếu quá rộng, thu gọn Stream Key/Thư mục Video để hiển thị đủ các cột và giữ nút BẮT ĐẦU hiển thị đầy đủ.",
+      "recommended": true
+    },
+    {
       "version": "1.0.6",
       "download_url": "https://github.com/daoduytan294/autolivedt-release/releases/download/v1.0.6/AutoLiveDT_Setup_1.0.6.exe",
       "sha256": "215C8CC3F3B32D26C1985F864599C52B97222388C1CBDEF67CFC92A6C970D829",
@@ -9,7 +20,7 @@
       "zip_sha256": "39932D29F20D60CBC143DE87B21DF4A63037DD3E65B5FE35265B5C32E1353F9A",
       "date": "2026-05-28",
       "notes": "Cập nhật AutoLiveDT 1.0.6: tinh gọn giao diện bảng, thu nhỏ cột Quét thư mục con, giữ resize cột, tối ưu giảm lag, tự recover khi FFmpeg/RTMP lỗi tạm thời, chặn cập nhật khi còn luồng đang live và lưu/khôi phục cấu hình + lịch sử luồng sau khi mở lại app.",
-      "recommended": true
+      "recommended": false
     },
     {
       "version": "1.0.5",
