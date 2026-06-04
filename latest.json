@@ -1,10 +1,10 @@
 {
   "latest_version": "1.0.7",
   "download_url": "https://github.com/daoduytan294/autolivedt-release/releases/download/v1.0.7/AutoLiveDT_Setup_1.0.7.exe",
-  "sha256": "70C399E73F1C948045D76359C7798E4357F98B01691D4AF6777346B6FAA2E385",
+  "sha256": "D018174A135A254F14851EF45EFE674384CA5F16F3CEC7A1CC2701E75A4B9C93",
   "package_type": "zip",
   "zip_url": "https://github.com/daoduytan294/autolivedt-release/releases/download/v1.0.7/AutoLiveDT_Update_1.0.7.zip",
-  "zip_sha256": "EEE894C34CFB630706582429027B7C5F6CC749FFB77E1A8F206D58DCABE54263",
+  "zip_sha256": "5F471487713C104B7AFC1048E8925C3004866021417D47AD5642CE3A37BDE6A0",
   "notes": "Cập nhật AutoLiveDT 1.0.7: sửa hiển thị trạng thái luồng live theo FFmpeg/RTMP khi YouTube ngắt luồng; thêm menu chuột phải Cắt/Copy/Dán/Chọn tất cả trong các ô nhập; thêm cột Ghi Chú; tự động lưu cấu hình, ghi chú, danh sách thư mục, lịch, lịch sử luồng và kích thước cột khi chỉnh sửa để giảm mất dữ liệu khi mất điện; thêm tính năng tùy chỉnh giao diện, ngôn ngữ",
   "force_update": false
 }
