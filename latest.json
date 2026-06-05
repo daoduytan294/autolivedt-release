@@ -5,6 +5,6 @@
   "package_type": "zip",
   "zip_url": "https://github.com/daoduytan294/autolivedt-release/releases/download/v1.0.7/AutoLiveDT_Update_1.0.7.zip",
   "zip_sha256": "68C9F604D89844E91B8A62CB939B6AD9574A9A1E5484C11A5689092A96981420",
-  "notes": "Cập nhật AutoLiveDT 1.0.7: Giảm trùng mạnh hơn: Mỗi luồng có bộ random riêng, tránh các luồng bị random “chung nhịp”; sửa hiển thị trạng thái luồng live theo FFmpeg/RTMP khi YouTube ngắt luồng; thêm menu chuột phải Cắt/Copy/Dán/Chọn tất cả trong các ô nhập; thêm cột Ghi Chú; tự động lưu cấu hình, ghi chú, danh sách thư mục, lịch, lịch sử luồng và kích thước cột khi chỉnh sửa để giảm mất dữ liệu khi mất điện; thêm tính năng tùy chỉnh giao diện, ngôn ngữ",
+  "notes": "Cập nhật AutoLiveDT 1.0.7: Giảm trùng mạnh hơn - Mỗi luồng có bộ random riêng, tránh các luồng bị random “chung nhịp”; sửa hiển thị trạng thái luồng live theo FFmpeg/RTMP khi YouTube ngắt luồng; thêm menu chuột phải Cắt/Copy/Dán/Chọn tất cả trong các ô nhập; thêm cột Ghi Chú; tự động lưu cấu hình, ghi chú, danh sách thư mục, lịch, lịch sử luồng và kích thước cột khi chỉnh sửa để giảm mất dữ liệu khi mất điện; thêm tính năng tùy chỉnh giao diện, ngôn ngữ",
   "force_update": false
 }
