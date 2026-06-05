@@ -3,12 +3,12 @@
     {
       "version": "1.0.7",
       "download_url": "https://github.com/daoduytan294/autolivedt-release/releases/download/v1.0.7/AutoLiveDT_Setup_1.0.7.exe",
-      "sha256": "7A7DDF7B1387EC9FF8D377BF33FEFA253A57A031F7088D6E9387EE5FC6A4D17E",
+      "sha256": "342AE97388B84C6E4EA0EEDC0FF293F0394F39A5CDC16B4EC4C3E78A61417085",
       "package_type": "zip",
       "zip_url": "https://github.com/daoduytan294/autolivedt-release/releases/download/v1.0.7/AutoLiveDT_Update_1.0.7.zip",
-      "zip_sha256": "68C9F604D89844E91B8A62CB939B6AD9574A9A1E5484C11A5689092A96981420",
+      "zip_sha256": "7318E56E757431A3B25C62EFACA9EEA0E9996840DC36370B6E6E161C34CAF1E5",
       "date": "2026-06-03",
-      "notes": "Cập nhật AutoLiveDT 1.0.7: Giảm trùng mạnh hơn - Mỗi luồng có bộ random riêng, tránh các luồng bị random “chung nhịp”; sửa trạng thái luồng live để không còn hiện Đang LIVE khi YouTube/RTMP đã ngắt; thêm bảng chọn ngày giờ cho cột Bắt đầu/Kết thúc; thêm menu chuột phải Cắt/Copy/Dán/Chọn tất cả trong các ô nhập; thêm cột Ghi Chú; tự động lưu cấu hình, ghi chú, danh sách thư mục, lịch, lịch sử luồng và kích thước/thứ tự cột để giảm mất dữ liệu khi mất điện; cho phép đổi thứ tự cột và thứ tự hàng; sửa ổn định bảng luồng, căn thẳng tiêu đề với nội dung, giảm lag khi kéo/di chuyển cột, tự bỏ cấu hình độ rộng cột cũ nếu quá rộng, thu gọn Stream Key/Thư mục Video để hiển thị đủ các cột và giữ nút BẮT ĐẦU hiển thị đầy đủ; thêm tính năng tùy chỉnh giao diện, ngôn ngữ",
+      "notes": "Cập nhật AutoLiveDT 1.0.7: Giảm trùng mạnh hơn - Mỗi luồng có bộ random riêng, tránh các luồng bị random chung nhịp; sửa trạng thái luồng live để không còn hiện Đang LIVE khi YouTube/RTMP đã ngắt; thêm bảng chọn ngày giờ cho cột Bắt đầu/Kết thúc; thêm menu chuột phải Cắt/Copy/Dán/Chọn tất cả trong các ô nhập; thêm cột Ghi Chú; tự động lưu cấu hình, ghi chú, danh sách thư mục, lịch, lịch sử luồng và kích thước/thứ tự cột để giảm mất dữ liệu khi mất điện; cho phép đổi thứ tự cột và thứ tự hàng; sửa ổn định bảng luồng, căn thẳng tiêu đề với nội dung, giảm lag khi kéo/di chuyển cột, tự bỏ cấu hình độ rộng cột cũ nếu quá rộng, thu gọn Stream Key/Thư mục Video để hiển thị đủ các cột và giữ nút BẮT ĐẦU hiển thị đầy đủ; thêm tính năng tùy chỉnh giao diện, ngôn ngữ",
       "recommended": true
     },
     {
