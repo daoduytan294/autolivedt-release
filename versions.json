@@ -1,6 +1,17 @@
 {
   "versions": [
     {
+      "version": "1.0.8",
+      "download_url": "https://github.com/daoduytan294/autolivedt-release/releases/download/v1.0.8/AutoLiveDT_Setup_1.0.8.exe",
+      "sha256": "D700333E52432A7E96AFBBBFEEE454DB20B7B3AB0D0599EF9DC868E75F0996DC",
+      "package_type": "zip",
+      "zip_url": "https://github.com/daoduytan294/autolivedt-release/releases/download/v1.0.8/AutoLiveDT_Update_1.0.8.zip",
+      "zip_sha256": "C82B0815DED0286B294313BD17099A4B99FD7CF33C0E3A2953EDC5F8D1CC45A5",
+      "date": "2026-06-16",
+      "notes": "Cập nhật AutoLiveDT 1.0.8: sửa trạng thái luồng để không còn giữ Đang LIVE khi FFmpeg/RTMP/YouTube đã ngắt; thêm menu chuột phải Cắt/Copy/Dán/Xóa/Chọn tất cả cho các ô nhập; thêm cột Ghi Chú; bật autosave khi chỉnh sửa, thêm/xóa thư mục, đổi lịch, đổi cột, đổi vị trí hàng/cột và khi chạy/dừng để giảm mất dữ liệu khi mất điện; cho phép thêm thư mục video vào luồng đang live mà không cần dừng luồng, thư mục mới sẽ được áp dụng từ vòng/playlist tiếp theo; sửa bảng để khi mở full tự kéo đầy khung bên trái, không còn khoảng trống giữa cột Thao tác và bảng log; đồng bộ lại tiêu đề với dòng dữ liệu khi kéo rộng cột; ưu tiên giãn rộng Tên Kênh, Stream Key và hai cột ngày giờ; đổi nút ngày giờ thành icon lịch, bỏ nút mũi tên ngoài bảng chính nhưng vẫn giữ spinbox chỉnh số trong popup chọn ngày giờ; thêm kéo tiêu đề cột để đổi vị trí cột và kéo ô STT để đổi vị trí hàng, có vạch cam báo vị trí thả; cải thiện random để không trùng file trong một vòng và hạn chế trùng thứ tự giữa các vòng/luồng.",
+      "recommended": true
+    },
+    {
       "version": "1.0.7",
       "download_url": "https://github.com/daoduytan294/autolivedt-release/releases/download/v1.0.7/AutoLiveDT_Setup_1.0.7.exe",
       "sha256": "9AD7F243DD385E9A4460DB1C31EC858982127A4F20D8B1E0D20EC148384DC695",
@@ -9,7 +20,7 @@
       "zip_sha256": "9E62FDBE1B0CCAF49B451D86D2AC5D9A629FF661472DD83E0B3D4C5544ACA25F",
       "date": "2026-06-05",
       "notes": "Cập nhật AutoLiveDT 1.0.7: Giảm trùng mạnh hơn - Mỗi luồng có bộ random riêng, tránh các luồng bị random chung nhịp; sửa trạng thái luồng live để không còn hiện Đang LIVE khi YouTube/RTMP đã ngắt; thêm bảng chọn ngày giờ cho cột Bắt đầu/Kết thúc; thêm menu chuột phải Cắt/Copy/Dán/Chọn tất cả trong các ô nhập; thêm cột Ghi Chú; tự động lưu cấu hình, ghi chú, danh sách thư mục, lịch, lịch sử luồng và kích thước/thứ tự cột để giảm mất dữ liệu khi mất điện; cho phép đổi thứ tự cột và thứ tự hàng; sửa ổn định bảng luồng, căn thẳng tiêu đề với nội dung, giảm lag khi kéo/di chuyển cột, tự bỏ cấu hình độ rộng cột cũ nếu quá rộng, thu gọn Stream Key/Thư mục Video để hiển thị đủ các cột và giữ nút BẮT ĐẦU hiển thị đầy đủ; thêm tính năng tùy chỉnh giao diện, ngôn ngữ",
-      "recommended": true
+      "recommended": false
     },
     {
       "version": "1.0.6",
