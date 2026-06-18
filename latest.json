@@ -1,12 +1,10 @@
 {
-  "latest_version": "1.0.8",
-  "download_url": "https://github.com/daoduytan294/autolivedt-release/releases/download/v1.0.8/AutoLiveDT_Setup_1.0.8.exe",
-  "sha256": "34F0DCC05AFB5EC29CA99E36E12AAEB622BB0964F3271AC4A89D9888E3172FE2",
+  "latest_version": "1.0.9",
+  "download_url": "https://github.com/daoduytan294/autolivedt-release/releases/download/v1.0.9/AutoLiveDT_Setup_1.0.9.exe",
+  "sha256": "09C2A121D6C47D5B119622B6B468F33720184870D096BF9AD76DD7096B23DEA8",
   "package_type": "zip",
-  "zip_url": "https://github.com/daoduytan294/autolivedt-release/releases/download/v1.0.8/AutoLiveDT_Update_1.0.8.zip",
-  "zip_sha256": "626486F5210A0DFC63A6298F03BD1AF39A5D59152685EE1ED8405D84A9F6570A",
-  "notes": "Cập nhật AutoLiveDT 1.0.8: sửa trạng thái luồng để không còn giữ Đang LIVE khi FFmpeg/RTMP/YouTube đã ngắt; thêm menu chuột phải Cắt/Copy/Dán/Xóa/Chọn tất cả cho các ô nhập; thêm cột Ghi Chú; bật autosave khi chỉnh sửa, thêm/xóa thư mục, đổi lịch, đổi cột, đổi vị trí hàng/cột và khi chạy/dừng để giảm mất dữ liệu khi mất điện; sửa bảng để khi mở full tự kéo đầy khung bên trái, không còn khoảng trống giữa cột Thao tác và bảng log; đồng bộ lại tiêu đề với dòng dữ liệu khi kéo rộng cột; ưu tiên giãn rộng Tên Kênh, Stream Key và hai cột ngày giờ; đổi nút ngày giờ thành icon lịch, bỏ nút mũi tên ngoài bảng chính nhưng vẫn giữ spinbox chỉnh số trong popup chọn ngày giờ; thêm kéo tiêu đề cột để đổi vị trí cột và kéo ô STT để đổi vị trí hàng, có vạch cam báo vị trí thả; cải thiện random để không trùng file trong một vòng và hạn chế trùng thứ tự giữa các vòng/luồng.",
+  "zip_url": "https://github.com/daoduytan294/autolivedt-release/releases/download/v1.0.9/AutoLiveDT_Update_1.0.9.zip",
+  "zip_sha256": "8A421AC277EF57BF897168184D08978EDB5A019EC60EE30E8EE7214C05852483",
+  "notes": "Cập nhật AutoLiveDT 1.0.9: thêm Khung live / Canvas + Layer theo từng luồng; chọn tỉ lệ 16:9, 9:16, 1:1, 4:3, 21:9 hoặc tùy chỉnh; chọn độ phân giải theo khung; crop/phủ kín, vừa khung/có viền hoặc kéo dãn; preview lấy frame thật từ video, chọn video preview theo từng thư mục nguồn, có thanh tua và nút +/-15s; kéo thả video gốc/text/ảnh, chỉnh size/vị trí bằng chuột hoặc nhập số, có 4 nút điều hướng; thêm nhiều layer text/ảnh, sắp xếp trên dưới, bật/tắt mắt từng layer và từng thư mục nguồn; giữ các sửa lỗi 1.0.8 về trạng thái YouTube, autosave, random không trùng vòng, bảng kéo cột/hàng và giao diện cập nhật.",
   "force_update": false
 }
-
-
