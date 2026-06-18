@@ -1,91 +1,102 @@
 {
-  "versions": [
-    {
-      "version": "1.0.8",
-      "download_url": "https://github.com/daoduytan294/autolivedt-release/releases/download/v1.0.8/AutoLiveDT_Setup_1.0.8.exe",
-      "sha256": "34F0DCC05AFB5EC29CA99E36E12AAEB622BB0964F3271AC4A89D9888E3172FE2",
-      "package_type": "zip",
-      "zip_url": "https://github.com/daoduytan294/autolivedt-release/releases/download/v1.0.8/AutoLiveDT_Update_1.0.8.zip",
-      "zip_sha256": "626486F5210A0DFC63A6298F03BD1AF39A5D59152685EE1ED8405D84A9F6570A",
-      "date": "2026-06-17",
-      "notes": "Cập nhật AutoLiveDT 1.0.8: sửa trạng thái luồng để không còn giữ Đang LIVE khi FFmpeg/RTMP/YouTube đã ngắt; thêm menu chuột phải Cắt/Copy/Dán/Xóa/Chọn tất cả cho các ô nhập; thêm cột Ghi Chú; bật autosave khi chỉnh sửa, thêm/xóa thư mục, đổi lịch, đổi cột, đổi vị trí hàng/cột và khi chạy/dừng để giảm mất dữ liệu khi mất điện; sửa bảng để khi mở full tự kéo đầy khung bên trái, không còn khoảng trống giữa cột Thao tác và bảng log; đồng bộ lại tiêu đề với dòng dữ liệu khi kéo rộng cột; ưu tiên giãn rộng Tên Kênh, Stream Key và hai cột ngày giờ; đổi nút ngày giờ thành icon lịch, bỏ nút mũi tên ngoài bảng chính nhưng vẫn giữ spinbox chỉnh số trong popup chọn ngày giờ; thêm kéo tiêu đề cột để đổi vị trí cột và kéo ô STT để đổi vị trí hàng, có vạch cam báo vị trí thả; cải thiện random để không trùng file trong một vòng và hạn chế trùng thứ tự giữa các vòng/luồng.",
-      "recommended": true
-    },
-    {
-      "version": "1.0.7",
-      "download_url": "https://github.com/daoduytan294/autolivedt-release/releases/download/v1.0.7/AutoLiveDT_Setup_1.0.7.exe",
-      "sha256": "9AD7F243DD385E9A4460DB1C31EC858982127A4F20D8B1E0D20EC148384DC695",
-      "package_type": "zip",
-      "zip_url": "https://github.com/daoduytan294/autolivedt-release/releases/download/v1.0.7/AutoLiveDT_Update_1.0.7.zip",
-      "zip_sha256": "9E62FDBE1B0CCAF49B451D86D2AC5D9A629FF661472DD83E0B3D4C5544ACA25F",
-      "date": "2026-06-05",
-      "notes": "Cập nhật AutoLiveDT 1.0.7: sửa hiển thị trạng thái luồng live theo FFmpeg/RTMP khi YouTube ngắt luồng; thêm menu chuột phải Cắt/Copy/Dán/Chọn tất cả trong các ô nhập; thêm cột Ghi Chú; tự động lưu cấu hình, ghi chú, danh sách thư mục, lịch, lịch sử luồng và kích thước cột khi chỉnh sửa để giảm mất dữ liệu khi mất điện.",
-      "recommended": false
-    },
-    {
-      "version": "1.0.6",
-      "download_url": "https://github.com/daoduytan294/autolivedt-release/releases/download/v1.0.6/AutoLiveDT_Setup_1.0.6.exe",
-      "sha256": "215C8CC3F3B32D26C1985F864599C52B97222388C1CBDEF67CFC92A6C970D829",
-      "package_type": "zip",
-      "zip_url": "https://github.com/daoduytan294/autolivedt-release/releases/download/v1.0.6/AutoLiveDT_Update_1.0.6.zip",
-      "zip_sha256": "39932D29F20D60CBC143DE87B21DF4A63037DD3E65B5FE35265B5C32E1353F9A",
-      "date": "2026-05-28",
-      "notes": "Cập nhật AutoLiveDT 1.0.6: tinh gọn giao diện bảng, thu nhỏ cột Quét thư mục con, giữ resize cột, tối ưu giảm lag, tự recover khi FFmpeg/RTMP lỗi tạm thời, chặn cập nhật khi còn luồng đang live và lưu/khôi phục cấu hình + lịch sử luồng sau khi mở lại app.",
-      "recommended": false
-    },
-    {
-      "version": "1.0.5",
-      "download_url": "https://github.com/daoduytan294/autolivedt-release/releases/download/v1.0.5/AutoLiveDT_Setup_1.0.5.exe",
-      "sha256": "94F1201AC2DBA1FF6E3A46A81A1C0E9B6FE9F53910F2AF44E3668F170B98D170",
-      "package_type": "zip",
-      "zip_url": "https://github.com/daoduytan294/autolivedt-release/releases/download/v1.0.5/AutoLiveDT_Update_1.0.5.zip",
-      "zip_sha256": "4DB6D498F29F04D314AE804960F07EBC1B492DE2FA7BCDF5139200595926D9A0",
-      "date": "2026-05-22",
-      "notes": "Cập nhật AutoLiveDT 1.0.5: chuyển build sang dạng ONEDIR để hạn chế lỗi Failed to load Python DLL / Temp _MEI, giữ cơ chế setup tương thích cho bản cũ và ZIP update cho các bản mới.",
-      "recommended": false
-    },
-    {
-      "version": "1.0.4",
-      "download_url": "https://github.com/daoduytan294/autolivedt-release/releases/download/v1.0.4/AutoLiveDT_Setup_1.0.4.exe",
-      "sha256": "9419185EEB2E75E1EAB6DCB158F919BBDED394563F8C114FF8FBD8F149C685CB",
-      "package_type": "zip",
-      "zip_url": "https://github.com/daoduytan294/autolivedt-release/releases/download/v1.0.4/AutoLiveDT_Update_1.0.4.zip",
-      "zip_sha256": "AF7B51147747C19F295D578B09D50DA4736C21257BCB1674CFEA863B24A10501",
-      "date": "2026-05-21",
-      "notes": "Cập nhật AutoLiveDT 1.0.4: sửa cập nhật nhẹ bằng ZIP, giữ bộ cài tương thích cho bản cũ, tự dùng lại thư mục đã cài khi chạy setup, tách ffmpeg/ffprobe ra ngoài EXE để giảm dung lượng bản update và hạn chế lỗi giải nén PyInstaller.",
-      "recommended": false
-    },
-    {
-      "version": "1.0.3",
-      "download_url": "https://github.com/daoduytan294/autolivedt-release/releases/download/v1.0.3/AutoLiveDT_Setup_1.0.3.exe",
-      "sha256": "E20D21E9C4A8CEAB551B1BD38576B58AC568A14C688F3BA49ED48CF3D946C861",
-      "date": "2026-05-21",
-      "notes": "Cập nhật AutoLiveDT 1.0.3: chỉnh giao diện kích hoạt, đổi trạng thái thành Đã kích hoạt/Chưa kích hoạt và mở rộng phần chọn Encoder/Bitrate/Preset để hiển thị đủ nội dung lựa chọn.",
-      "recommended": false
-    },
-    {
-      "version": "1.0.2",
-      "download_url": "https://github.com/daoduytan294/autolivedt-release/releases/download/v1.0.2/AutoLiveDT_Setup_1.0.2.exe",
-      "sha256": "8ECAF91A89B87DAD5CC75C08A6E18325DE3CFEF5162B7128DEF98356C147FB73",
-      "date": "2026-05-19",
-      "notes": "Cập nhật AutoLiveDT 1.0.2: hiển thị thời gian đã live chạy theo từng giây trong Chi tiết luồng, cập nhật nhẹ không làm nhảy cuộn danh sách video và giữ đầy đủ các chức năng chọn nhiều thư mục, lấy thư mục con, timestamp, GPU/NVENC, cập nhật/lịch sử phiên bản.",
-      "recommended": false
-    },
-    {
-      "version": "1.0.1",
-      "download_url": "https://github.com/daoduytan294/autolivedt-release/releases/download/v1.0.1/AutoLiveDT_Setup_1.0.1.exe",
-      "sha256": "88EFA9654C9C0D3B4258ADDF767077ABA7A9E4E2037171634934B2A4F4D36B50",
-      "date": "2026-05-18",
-      "notes": "Cập nhật AutoLiveDT 1.0.1: khôi phục đầy đủ chức năng chọn nhiều thư mục video, lấy thư mục con, timestamp, hiển thị video đang live, tối ưu giao diện cập nhật và lịch sử phiên bản.",
-      "recommended": false
-    },
-    {
-      "version": "1.0.0",
-      "download_url": "https://github.com/daoduytan294/autolivedt-release/releases/download/v1.0.0/AutoLiveDT_Setup_1.0.0.exe",
-      "sha256": "981C3FF8E0DE4F99D6055A76B0A2D0A33322C36ED4BD27EAEC06D95F4F7516A5",
-      "date": "2026-05-18",
-      "notes": "Phát hành AutoLiveDT phiên bản 1.0.0. Bổ sung chức năng cập nhật tự động, lịch sử phiên bản, hỗ trợ GPU/NVENC, chọn nhiều thư mục video và hiển thị timestamp từng luồng.",
-      "recommended": false
-    }
-  ]
+"versions": [
+{
+"version": "1.0.9",
+"download_url": "https://github.com/daoduytan294/autolivedt-release/releases/download/v1.0.9/AutoLiveDT_Setup_1.0.9.exe",
+"sha256": "09C2A121D6C47D5B119622B6B468F33720184870D096BF9AD76DD7096B23DEA8",
+"package_type": "zip",
+"zip_url": "https://github.com/daoduytan294/autolivedt-release/releases/download/v1.0.9/AutoLiveDT_Update_1.0.9.zip",
+"zip_sha256": "8A421AC277EF57BF897168184D08978EDB5A019EC60EE30E8EE7214C05852483",
+"date": "2026-06-18",
+"notes": "Cập nhật AutoLiveDT 1.0.9: thêm Khung live / Canvas + Layer theo từng luồng; chọn tỉ lệ 16:9, 9:16, 1:1, 4:3, 21:9 hoặc tùy chỉnh; chọn độ phân giải theo khung; crop/phủ kín, vừa khung/có viền hoặc kéo dãn; preview lấy frame thật từ video, chọn video preview theo từng thư mục nguồn, có thanh tua và nút +/-15s; thêm Play/Pause preview để xem thử animation trước khi live; kéo thả video gốc/text/ảnh, chỉnh size/vị trí bằng chuột hoặc nhập số, có 4 nút điều hướng; thêm nhiều layer text/ảnh, sắp xếp trên dưới, bật/tắt mắt từng layer và từng thư mục nguồn; giữ các sửa lỗi 1.0.8 về trạng thái YouTube, autosave, random không trùng vòng, bảng kéo cột/hàng và giao diện cập nhật.",
+"recommended": true
+},
+{
+"version": "1.0.8",
+"download_url": "https://github.com/daoduytan294/autolivedt-release/releases/download/v1.0.8/AutoLiveDT_Setup_1.0.8.exe",
+"sha256": "34F0DCC05AFB5EC29CA99E36E12AAEB622BB0964F3271AC4A89D9888E3172FE2",
+"package_type": "zip",
+"zip_url": "https://github.com/daoduytan294/autolivedt-release/releases/download/v1.0.8/AutoLiveDT_Update_1.0.8.zip",
+"zip_sha256": "626486F5210A0DFC63A6298F03BD1AF39A5D59152685EE1ED8405D84A9F6570A",
+"date": "2026-06-17",
+"notes": "Cập nhật AutoLiveDT 1.0.8: sửa trạng thái luồng để không còn giữ Đang LIVE khi FFmpeg/RTMP/YouTube đã ngắt; thêm menu chuột phải Cắt/Copy/Dán/Xóa/Chọn tất cả cho các ô nhập; thêm cột Ghi Chú; bật autosave khi chỉnh sửa, thêm/xóa thư mục, đổi lịch, đổi cột, đổi vị trí hàng/cột và khi chạy/dừng để giảm mất dữ liệu khi mất điện; sửa bảng để khi mở full tự kéo đầy khung bên trái, không còn khoảng trống giữa cột Thao tác và bảng log; đồng bộ lại tiêu đề với dòng dữ liệu khi kéo rộng cột; ưu tiên giãn rộng Tên Kênh, Stream Key và hai cột ngày giờ; đổi nút ngày giờ thành icon lịch, bỏ nút mũi tên ngoài bảng chính nhưng vẫn giữ spinbox chỉnh số trong popup chọn ngày giờ; thêm kéo tiêu đề cột để đổi vị trí cột và kéo ô STT để đổi vị trí hàng, có vạch cam báo vị trí thả; cải thiện random để không trùng file trong một vòng và hạn chế trùng thứ tự giữa các vòng/luồng.",
+"recommended": false
+},
+{
+"version": "1.0.7",
+"download_url": "https://github.com/daoduytan294/autolivedt-release/releases/download/v1.0.7/AutoLiveDT_Setup_1.0.7.exe",
+"sha256": "9AD7F243DD385E9A4460DB1C31EC858982127A4F20D8B1E0D20EC148384DC695",
+"package_type": "zip",
+"zip_url": "https://github.com/daoduytan294/autolivedt-release/releases/download/v1.0.7/AutoLiveDT_Update_1.0.7.zip",
+"zip_sha256": "9E62FDBE1B0CCAF49B451D86D2AC5D9A629FF661472DD83E0B3D4C5544ACA25F",
+"date": "2026-06-05",
+"notes": "Cập nhật AutoLiveDT 1.0.7: sửa hiển thị trạng thái luồng live theo FFmpeg/RTMP khi YouTube ngắt luồng; thêm menu chuột phải Cắt/Copy/Dán/Chọn tất cả trong các ô nhập; thêm cột Ghi Chú; tự động lưu cấu hình, ghi chú, danh sách thư mục, lịch, lịch sử luồng và kích thước cột khi chỉnh sửa để giảm mất dữ liệu khi mất điện.",
+"recommended": false
+},
+{
+"version": "1.0.6",
+"download_url": "https://github.com/daoduytan294/autolivedt-release/releases/download/v1.0.6/AutoLiveDT_Setup_1.0.6.exe",
+"sha256": "215C8CC3F3B32D26C1985F864599C52B97222388C1CBDEF67CFC92A6C970D829",
+"package_type": "zip",
+"zip_url": "https://github.com/daoduytan294/autolivedt-release/releases/download/v1.0.6/AutoLiveDT_Update_1.0.6.zip",
+"zip_sha256": "39932D29F20D60CBC143DE87B21DF4A63037DD3E65B5FE35265B5C32E1353F9A",
+"date": "2026-05-28",
+"notes": "Cập nhật AutoLiveDT 1.0.6: tinh gọn giao diện bảng, thu nhỏ cột Quét thư mục con, giữ resize cột, tối ưu giảm lag, tự recover khi FFmpeg/RTMP lỗi tạm thời, chặn cập nhật khi còn luồng đang live và lưu/khôi phục cấu hình + lịch sử luồng sau khi mở lại app.",
+"recommended": false
+},
+{
+"version": "1.0.5",
+"download_url": "https://github.com/daoduytan294/autolivedt-release/releases/download/v1.0.5/AutoLiveDT_Setup_1.0.5.exe",
+"sha256": "94F1201AC2DBA1FF6E3A46A81A1C0E9B6FE9F53910F2AF44E3668F170B98D170",
+"package_type": "zip",
+"zip_url": "https://github.com/daoduytan294/autolivedt-release/releases/download/v1.0.5/AutoLiveDT_Update_1.0.5.zip",
+"zip_sha256": "4DB6D498F29F04D314AE804960F07EBC1B492DE2FA7BCDF5139200595926D9A0",
+"date": "2026-05-22",
+"notes": "Cập nhật AutoLiveDT 1.0.5: chuyển build sang dạng ONEDIR để hạn chế lỗi Failed to load Python DLL / Temp _MEI, giữ cơ chế setup tương thích cho bản cũ và ZIP update cho các bản mới.",
+"recommended": false
+},
+{
+"version": "1.0.4",
+"download_url": "https://github.com/daoduytan294/autolivedt-release/releases/download/v1.0.4/AutoLiveDT_Setup_1.0.4.exe",
+"sha256": "9419185EEB2E75E1EAB6DCB158F919BBDED394563F8C114FF8FBD8F149C685CB",
+"package_type": "zip",
+"zip_url": "https://github.com/daoduytan294/autolivedt-release/releases/download/v1.0.4/AutoLiveDT_Update_1.0.4.zip",
+"zip_sha256": "AF7B51147747C19F295D578B09D50DA4736C21257BCB1674CFEA863B24A10501",
+"date": "2026-05-21",
+"notes": "Cập nhật AutoLiveDT 1.0.4: sửa cập nhật nhẹ bằng ZIP, giữ bộ cài tương thích cho bản cũ, tự dùng lại thư mục đã cài khi chạy setup, tách ffmpeg/ffprobe ra ngoài EXE để giảm dung lượng bản update và hạn chế lỗi giải nén PyInstaller.",
+"recommended": false
+},
+{
+"version": "1.0.3",
+"download_url": "https://github.com/daoduytan294/autolivedt-release/releases/download/v1.0.3/AutoLiveDT_Setup_1.0.3.exe",
+"sha256": "E20D21E9C4A8CEAB551B1BD38576B58AC568A14C688F3BA49ED48CF3D946C861",
+"date": "2026-05-21",
+"notes": "Cập nhật AutoLiveDT 1.0.3: chỉnh giao diện kích hoạt, đổi trạng thái thành Đã kích hoạt/Chưa kích hoạt và mở rộng phần chọn Encoder/Bitrate/Preset để hiển thị đủ nội dung lựa chọn.",
+"recommended": false
+},
+{
+"version": "1.0.2",
+"download_url": "https://github.com/daoduytan294/autolivedt-release/releases/download/v1.0.2/AutoLiveDT_Setup_1.0.2.exe",
+"sha256": "8ECAF91A89B87DAD5CC75C08A6E18325DE3CFEF5162B7128DEF98356C147FB73",
+"date": "2026-05-19",
+"notes": "Cập nhật AutoLiveDT 1.0.2: hiển thị thời gian đã live chạy theo từng giây trong Chi tiết luồng, cập nhật nhẹ không làm nhảy cuộn danh sách video và giữ đầy đủ các chức năng chọn nhiều thư mục, lấy thư mục con, timestamp, GPU/NVENC, cập nhật/lịch sử phiên bản.",
+"recommended": false
+},
+{
+"version": "1.0.1",
+"download_url": "https://github.com/daoduytan294/autolivedt-release/releases/download/v1.0.1/AutoLiveDT_Setup_1.0.1.exe",
+"sha256": "88EFA9654C9C0D3B4258ADDF767077ABA7A9E4E2037171634934B2A4F4D36B50",
+"date": "2026-05-18",
+"notes": "Cập nhật AutoLiveDT 1.0.1: khôi phục đầy đủ chức năng chọn nhiều thư mục video, lấy thư mục con, timestamp, hiển thị video đang live, tối ưu giao diện cập nhật và lịch sử phiên bản.",
+"recommended": false
+},
+{
+"version": "1.0.0",
+"download_url": "https://github.com/daoduytan294/autolivedt-release/releases/download/v1.0.0/AutoLiveDT_Setup_1.0.0.exe",
+"sha256": "981C3FF8E0DE4F99D6055A76B0A2D0A33322C36ED4BD27EAEC06D95F4F7516A5",
+"date": "2026-05-18",
+"notes": "Phát hành AutoLiveDT phiên bản 1.0.0. Bổ sung chức năng cập nhật tự động, lịch sử phiên bản, hỗ trợ GPU/NVENC, chọn nhiều thư mục video và hiển thị timestamp từng luồng.",
+"recommended": false
+}
+]
 }
