@@ -1,10 +1,10 @@
 {
-  "latest_version": "1.0.9",
-  "download_url": "https://github.com/daoduytan294/autolivedt-release/releases/download/v1.0.9/AutoLiveDT_Setup_1.0.9.exe",
-  "sha256": "09C2A121D6C47D5B119622B6B468F33720184870D096BF9AD76DD7096B23DEA8",
+  "latest_version": "1.1.0",
+  "download_url": "https://github.com/daoduytan294/autolivedt-release/releases/download/v1.1.0/AutoLiveDT_Setup_1.1.0.exe",
+  "sha256": "2641049D66411FCDC8BAB9143AC7357D41347BA3E448297686E1D3E612534859",
   "package_type": "zip",
-  "zip_url": "https://github.com/daoduytan294/autolivedt-release/releases/download/v1.0.9/AutoLiveDT_Update_1.0.9.zip",
-  "zip_sha256": "8A421AC277EF57BF897168184D08978EDB5A019EC60EE30E8EE7214C05852483",
-  "notes": "Cập nhật AutoLiveDT 1.0.9: thêm Khung live / Canvas + Layer theo từng luồng; chọn tỉ lệ 16:9, 9:16, 1:1, 4:3, 21:9 hoặc tùy chỉnh; chọn độ phân giải theo khung; crop/phủ kín, vừa khung/có viền hoặc kéo dãn; preview lấy frame thật từ video, chọn video preview theo từng thư mục nguồn, có thanh tua và nút +/-15s; kéo thả video gốc/text/ảnh, chỉnh size/vị trí bằng chuột hoặc nhập số, có 4 nút điều hướng; thêm nhiều layer text/ảnh, sắp xếp trên dưới, bật/tắt mắt từng layer và từng thư mục nguồn; giữ các sửa lỗi 1.0.8 về trạng thái YouTube, autosave, random không trùng vòng, bảng kéo cột/hàng và giao diện cập nhật.",
+  "zip_url": "https://github.com/daoduytan294/autolivedt-release/releases/download/v1.1.0/AutoLiveDT_Update_1.1.0.zip",
+  "zip_sha256": "275DDBEAC232C12251952B0EE9F3B2EAF2852D30CE31C6F973F0BFE579008D23",
+  "notes": "Cập nhật AutoLiveDT 1.1.0: đồng bộ phiên bản hiển thị trong Control Panel/Apps & Features khi cập nhật bằng ZIP hoặc copy đè file; cập nhật AppVersion/APP_VERSION lên 1.1.0 và giữ các tính năng của bản 1.0.9.",
   "force_update": false
 }
