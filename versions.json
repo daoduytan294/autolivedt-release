@@ -3,10 +3,10 @@
     {
       "version": "1.1.0",
       "download_url": "https://github.com/daoduytan294/autolivedt-release/releases/download/v1.1.0/AutoLiveDT_Setup_1.1.0.exe",
-      "sha256": "2641049D66411FCDC8BAB9143AC7357D41347BA3E448297686E1D3E612534859",
+      "sha256": "3691652E9D848BCCABA05C631642BFC64DE233114D92196EF18B8296A0F1AC60",
       "package_type": "zip",
       "zip_url": "https://github.com/daoduytan294/autolivedt-release/releases/download/v1.1.0/AutoLiveDT_Update_1.1.0.zip",
-      "zip_sha256": "275DDBEAC232C12251952B0EE9F3B2EAF2852D30CE31C6F973F0BFE579008D23",
+      "zip_sha256": "8E6FA4D4280975D4D41FCDE1F8525D13EE9FAA076AFF9EAF734444D8998CF465",
       "date": "2026-06-26",
       "notes": "Cập nhật AutoLiveDT 1.1.0: đồng bộ phiên bản hiển thị trong Control Panel/Apps & Features khi cập nhật bằng ZIP hoặc copy đè file; cập nhật AppVersion/APP_VERSION lên 1.1.0 và giữ các tính năng của bản 1.0.9.",
       "recommended": true
