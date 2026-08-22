@@ -1,15 +1,26 @@
 {
   "versions": [
     {
+      "version": "1.1.1",
+      "download_url": "https://github.com/daoduytan294/autolivedt-release/releases/download/v1.1.1/AutoLiveDT_Setup_1.1.1.exe",
+      "sha256": "01D8367FA542DC2B71D8CE4FCAF093089BC0D4D63D404E57583FEBC15C4CE56A",
+      "package_type": "zip",
+      "zip_url": "https://github.com/daoduytan294/autolivedt-release/releases/download/v1.1.1/AutoLiveDT_Update_1.1.1.zip",
+      "zip_sha256": "9D9CEF5D9752B4C7E4661A8A31CE986B0BF4FB95452EFF50F4346FACE6CFD698",
+      "date": "2026-08-22",
+      "notes": "Cập nhật AutoLiveDT 1.1.1: giữ một tiến trình FFmpeg và lặp super-playlist nhiều vòng random bằng -stream_loop -1 để hạn chế đứt RTMP giữa các vòng; watchdog tự restart nếu FFmpeg còn sống nhưng progress RTMP bị treo; không tự dừng khi YouTube/RTMP tạm ngắt mà tự nối lại có backoff không giới hạn; YouTube watch báo ended/offline chỉ cập nhật trạng thái, không terminate FFmpeg; cột Ghi Chú chấp nhận trực tiếp VIDEO_ID 11 ký tự không cần YT=; ưu tiên đọc ytInitialPlayerResponse của đúng VIDEO_ID để giảm trạng thái sai; vẫn dừng đúng khi bấm DỪNG/XÓA hoặc đến giờ Kết thúc.",
+      "recommended": true
+    },
+    {
       "version": "1.1.0",
       "download_url": "https://github.com/daoduytan294/autolivedt-release/releases/download/v1.1.0/AutoLiveDT_Setup_1.1.0.exe",
-      "sha256": "3691652E9D848BCCABA05C631642BFC64DE233114D92196EF18B8296A0F1AC60",
+      "sha256": "2641049D66411FCDC8BAB9143AC7357D41347BA3E448297686E1D3E612534859",
       "package_type": "zip",
       "zip_url": "https://github.com/daoduytan294/autolivedt-release/releases/download/v1.1.0/AutoLiveDT_Update_1.1.0.zip",
-      "zip_sha256": "8E6FA4D4280975D4D41FCDE1F8525D13EE9FAA076AFF9EAF734444D8998CF465",
+      "zip_sha256": "275DDBEAC232C12251952B0EE9F3B2EAF2852D30CE31C6F973F0BFE579008D23",
       "date": "2026-06-26",
       "notes": "Cập nhật AutoLiveDT 1.1.0: đồng bộ phiên bản hiển thị trong Control Panel/Apps & Features khi cập nhật bằng ZIP hoặc copy đè file; cập nhật AppVersion/APP_VERSION lên 1.1.0 và giữ các tính năng của bản 1.0.9.",
-      "recommended": true
+      "recommended": false
     },
     {
       "version": "1.0.9",
